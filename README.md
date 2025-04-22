@@ -91,6 +91,7 @@ public class Score : MonoBehaviour
 
 ## OUTPUT:
 ![alt text](game.png)
+![alt text](<game end.png>)
 
 ## RESULT:
 
